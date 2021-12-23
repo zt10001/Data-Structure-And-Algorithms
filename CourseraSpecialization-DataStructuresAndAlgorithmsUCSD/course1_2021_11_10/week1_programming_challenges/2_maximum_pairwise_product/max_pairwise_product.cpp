@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 
-int MaxPairwiseProduct(const std::vector<int>& numbers) {
+int MaxPairwiseProductNaive(const std::vector<int>& numbers) {
     int max_product = 0;
     int n = numbers.size();
 
@@ -24,6 +24,6 @@ int main() {
         std::cin >> numbers[i];
     }
 
-    std::cout << MaxPairwiseProduct(numbers); << "\n";
+    std::cout << MaxPairwiseProductNaive(numbers) << "\n";
     return 0;
 }
