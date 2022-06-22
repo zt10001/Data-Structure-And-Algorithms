@@ -55,7 +55,7 @@ public class BruteCollinearPoints {
         lineSegments = list.toArray(new LineSegment[0]);
     }
 
-    public void checkNull(Point[] points) {
+    private void checkNull(Point[] points) {
 
         if (points == null) {
             throw new IllegalArgumentException("The array \"points\" is null.");

@@ -1,5 +1,5 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Name:              Tao Zheng
+ *  Email:             ztao10001@gmail.com
+ *  Last modified:     ${DATE}
  **************************************************************************** */
