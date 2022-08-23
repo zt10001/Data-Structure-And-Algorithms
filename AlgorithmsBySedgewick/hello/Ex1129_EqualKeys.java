@@ -6,6 +6,6 @@
 
 public class Ex1129_EqualKeys {
     public static void main(String[] args) {
-        
+
     }
 }

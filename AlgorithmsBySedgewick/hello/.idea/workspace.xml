@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="restart learning on coursera; first assignment">
-      <change afterPath="$PROJECT_DIR$/../8puzzle/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise1111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise1112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise1113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collinear/BruteCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collinear/BruteCollinearPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collinear/FastCollinearPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collinear/FastCollinearPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="Practice exercises of section 1.1">
+      <change afterPath="$PROJECT_DIR$/Evaluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1126_SortingThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1127_BinomialDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1128_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1129_EqualKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise1116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise1114.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +92,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648738241793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practice exercises of section 1.1">
+      <created>1655915735926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655915735926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -161,7 +171,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restart learning on coursera; first assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="restart learning on coursera; first assignment" />
+    <MESSAGE value="Practice exercises of section 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice exercises of section 1.1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercise1114.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
