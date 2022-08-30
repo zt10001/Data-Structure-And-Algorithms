@@ -220,3 +220,33 @@ We refer to the programming constructs, software libraries, and operating system
 
 ## 1.3 BAGS, QUEUES, AND STACKS
 
+### APIs
+
+#### Generics
+
+#### Autoboxing
+
+#### Iterable collections
+
+#### Bags
+
+#### FIFO queues
+
+#### Pushdown stacks
+
+#### Arithmetic expression evaluation
+
+### Implementing collections
+
+### Linked lists
+
+### Overview
+
+## 1.4 ANALYSIS OF ALGORITHMS
+
+### Scientific method
+
+### Observations
+
+### Mathematical models
+
